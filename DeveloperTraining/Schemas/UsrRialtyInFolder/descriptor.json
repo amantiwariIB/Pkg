@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2affc34-0c34-46b4-8a83-1d25d5f319a6",
+    "Name": "UsrRialtyInFolder",
+    "ModifiedOnUtc": "\/Date(1665495425000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Rialty in Folder",
+    "DependsOn": []
+  }
+}

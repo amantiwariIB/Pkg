@@ -1,0 +1,20 @@
+= MetaData.Schema.UId "e5572ff6-46c2-4b6e-a24a-4627584ba9c7"
+= MetaData.Schema.A2 "UsrDecimalOutputPage"
+= MetaData.Schema.B6 "d775943a-d955-0bfa-c37f-55f5b0dd9b04"
+= MetaData.Schema.B8 "8.0.4.1870"
+= MetaData.Schema.HD1 "5826ff24-46c6-4169-9223-2aaad9ec2e18"
+= MetaData.Schema.HD11.["c49bd85e-159a-49ee-b10a-3c3bca63d7d5"].L8.GS2 "{\"$type\":\"Terrasoft.Core.Process.LocalizableParameterValuesList, Terrasoft.Core\",\"$values\":[{\"ItemUId\":\"f073e66a-36ec-47d7-9c6a-e5952dbf05a3\",\"Id\":{\"value\":\"f073e66a-36ec-47d7-9c6a-e5952dbf05a3\"},\"Name\":{\"value\":\"Button-be6148b819154a0791eaee8f1635d859\"},\"Tag\":{\"value\":\"SaveData\"},\"Caption\":{\"isLczValue\":true},\"PerformClosePage\":{\"value\":\"True\"},\"PerformSaveData\":{\"value\":\"True\"},\"GenerateSignal\":{\"value\":\"\"}},{\"ItemUId\":\"c4841740-ff8c-406f-8626-1c78f78608bf\",\"Id\":{\"value\":\"c4841740-ff8c-406f-8626-1c78f78608bf\"},\"Name\":{\"value\":\"Button-3a8ac667899d4aa68021a07eb1c7c49c\"},\"Tag\":{\"value\":\"ClosePage\"},\"Caption\":{\"isLczValue\":true},\"PerformClosePage\":{\"value\":\"False\"},\"PerformSaveData\":{\"value\":\"False\"},\"GenerateSignal\":{\"value\":\"\"}}]}"
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "ce1d368c-dc4f-43a2-b34e-88760033840a",
+  "A2": "UsrFloat1",
+  "A3": "e5572ff6-46c2-4b6e-a24a-4627584ba9c7",
+  "A4": "e5572ff6-46c2-4b6e-a24a-4627584ba9c7",
+  "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "L8": {
+    "GS2": ""
+  }
+}
+~ MetaData.Schema.HD11 ["c49bd85e-159a-49ee-b10a-3c3bca63d7d5","ce1d368c-dc4f-43a2-b34e-88760033840a"]
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

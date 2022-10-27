@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a683d95a-3060-4790-b3f2-dbe6f005803a",
+    "Name": "UsrCalcAvgRealtyTypeProcess",
+    "ModifiedOnUtc": "\/Date(1666094118000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate Average Realty Type",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5572ff6-46c2-4b6e-a24a-4627584ba9c7",
+    "Name": "UsrDecimalOutputPage",
+    "ModifiedOnUtc": "\/Date(1666093909000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Decimal Output Page"
+  }
+}

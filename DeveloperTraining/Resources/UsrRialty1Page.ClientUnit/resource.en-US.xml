@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Rialty&quot;" />
+			<Item Name="LocalizableStrings.CommissionCaption.Value" Value="Commission,USD" />
+			<Item Name="LocalizableStrings.MyCaption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunWebServiceButtonCaption.Value" Value="Run Web Service" />
+			<Item Name="LocalizableStrings.TabefedeeccTabLabelTabCaption.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.UsrSchemaaa6b9080Detail211725fbDetailCaptionOnPage.Value" Value="Realty visit" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Value must be greater than zero" />
+		</Items>
+	</Group>
+</Resources>
